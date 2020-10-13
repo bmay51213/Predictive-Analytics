@@ -8,6 +8,9 @@ This database is also from University of California-Irvine Machine Learning Repo
 
 #### In this case, the project was divided with an R based exploratory data analysis portion and a Python-based machine learning algorithm implementation portion.
 
+### Coding Languages:
+R, Python
+
 ### Dataset URL:
 https://archive.ics.uci.edu/ml/datasets/Cardiotocography
 
